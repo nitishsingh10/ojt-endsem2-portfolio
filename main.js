@@ -34,37 +34,32 @@ const TEAM_MEMBERS = [
 
 const PROJECTS = [
   {
-    title: "Team Agency Portfolio",
+    title: "Team Agency Portfolio : Current",
     description: "A data-driven landing page introducing the team members and showcasing our core projects.",
-    tech: ["HTML", "CSS", "JavaScript"],
-    repoLink: "#placeholder-repo-link",
-    liveLink: "#placeholder-live-link"
+    repoLink: "https://github.com/nitishsingh10/ojt-endsem2-portfolio",
+    liveLink: "#"
   },
   {
     title: "Interactive Quiz App",
     description: "A multiple-choice quiz tracking running scores and managing application state.",
-    tech: ["HTML", "CSS", "JavaScript"],
     repoLink: "#placeholder-repo-link",
     liveLink: "#placeholder-live-link"
   },
   {
     title: "Expense Tracker",
     description: "An application to log income and expenses with full CRUD and localStorage persistence.",
-    tech: ["HTML", "CSS", "JavaScript"],
     repoLink: "#placeholder-repo-link",
     liveLink: "#placeholder-live-link"
   },
   {
     title: "Live News Feed",
     description: "A news aggregator fetching live data from NewsAPI with search and category filters.",
-    tech: ["HTML", "CSS", "Async/Await"],
     repoLink: "#placeholder-repo-link",
     liveLink: "#placeholder-live-link"
   },
   {
     title: "GitHub Developer Explorer",
     description: "A tool utilizing the public GitHub REST API to view profiles, stats, and repositories.",
-    tech: ["REST API", "JavaScript", "DOM"],
     repoLink: "#placeholder-repo-link",
     liveLink: "#placeholder-live-link"
   },
