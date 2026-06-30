@@ -4,31 +4,31 @@ const TEAM_MEMBERS = [
     name: "Nitish",
     project: "Kanban Board",
     avatar: "https://ui-avatars.com/api/?name=N&background=0ab5f6&color=fff&size=100",
-    github: "https://github.com/#"
+    github: "https://github.com/nitishsingh10"
   },
   {
     name: "Aditya",
     project: "Quiz App",
     avatar: "https://ui-avatars.com/api/?name=A&background=0ab5f6&color=fff&size=100",
-    github: "https://github.com/#"
+    github: "https://github.com/aditya28a10"
   },
   {
     name: "Shahul",
     project: "Live News Feed",
     avatar: "https://ui-avatars.com/api/?name=S&background=0ab5f6&color=fff&size=100",
-    github: "https://github.com/#"
+    github: "https://github.com/shahulalam85"
   },
   {
     name: "Zinnah",
     project: "GitHub Explorer",
     avatar: "https://ui-avatars.com/api/?name=$&background=0ab5f6&color=fff&size=100",
-    github: "https://github.com/#"
+    github: "https://github.com/zinna-dev"
   },
   {
     name: "Harsh",
     project: "Expense Tracker",
     avatar: "https://ui-avatars.com/api/?name=H&background=0ab5f6&color=fff&size=100",
-    github: "https://github.com/#"
+    github: "https://github.com/Harshgg21"
   }
 ];
 
@@ -42,33 +42,32 @@ const PROJECTS = [
   {
     title: "Interactive Quiz App",
     description: "A multiple-choice quiz tracking running scores and managing application state.",
-    repoLink: "#placeholder-repo-link",
-    liveLink: "#placeholder-live-link"
+    repoLink: "https://github.com/aditya28a10/Quiz-App",
+    liveLink: "https://quizapp-sem2.vercel.app/"
   },
   {
     title: "Expense Tracker",
     description: "An application to log income and expenses with full CRUD and localStorage persistence.",
-    repoLink: "#placeholder-repo-link",
-    liveLink: "#placeholder-live-link"
+    repoLink: "https://github.com/Harshgg21/Expense_Tracker",
+    liveLink: "https://expense-tracker-sem2.vercel.app"
   },
   {
     title: "Live News Feed",
     description: "A news aggregator fetching live data from NewsAPI with search and category filters.",
-    repoLink: "#placeholder-repo-link",
-    liveLink: "#placeholder-live-link"
+    repoLink: "https://github.com/shahaulalam85/News_ojt.git",
+    liveLink: "https://news-ojt-tau.vercel.app/"
   },
   {
     title: "GitHub Developer Explorer",
     description: "A tool utilizing the public GitHub REST API to view profiles, stats, and repositories.",
-    repoLink: "#placeholder-repo-link",
-    liveLink: "#placeholder-live-link"
+    repoLink: "https://github.com/zinna-dev/github-dev-exp",
+    liveLink: "https://zinna-dev.github.io/github-dev-exp/"
   },
   {
     title: "Kanban Task Board",
     description: "A Trello-style board with HTML5 Drag and Drop API and complex state management.",
-    tech: ["Drag & Drop", "LocalStorage", "JS"],
-    repoLink: "#placeholder-repo-link",
-    liveLink: "#placeholder-live-link"
+    repoLink: "https://github.com/nitishsingh10/KanBan.git",
+    liveLink: "https://kan-ban-three.vercel.app/"
   }
 ];
 
