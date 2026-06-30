@@ -4,7 +4,7 @@ Welcome to the central portfolio repository for **Team Na$H**. This project serv
 
 ## 👥 Meet The Team
 
-We are a collective of developers crafting seamless, high-performance web applications with modern design and solid architecture. 
+We are a collective of developers crafting seamless, high-performance web applications with modern design and solid architecture...
 
 - **Nitish** - Kanban Task Board
 - **Aditya** - Interactive Quiz App
